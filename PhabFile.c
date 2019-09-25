@@ -4,6 +4,6 @@ int main(){
 	int b = 20;
 	int c = a+b;
 	printf("git and jenkins together performs this operation and gives 40 ahaa %d!\n",c);
-	printf("GREAT!!!\n");
+	printf("GREAT!!!!\n");
 	return 0;
 }
