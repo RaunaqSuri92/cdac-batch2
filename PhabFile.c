@@ -1,4 +1,5 @@
 #include<stdio.h>
 int main(){
-	printf("hello phabricator!");
+	printf("git and jenkins together!\n");
+	return 0;
 }
